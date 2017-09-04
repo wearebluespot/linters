@@ -64,7 +64,7 @@ RSpec/NestedGroups:
   Enabled: false
 
 Style/BlockDelimiters:
-  Enabled: false
+  EnforcedStyle: semantic
 
 Style/ClassAndModuleChildren:
   Enabled: false
