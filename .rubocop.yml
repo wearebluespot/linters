@@ -14,9 +14,6 @@ Layout/AlignParameters:
 Layout/MultilineMethodCallIndentation:
   Enabled: false
 
-LetSetup:
-  Enabled: false
-
 Lint/AssignmentInCondition:
   Enabled: false
 
