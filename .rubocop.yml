@@ -49,13 +49,16 @@ Rails/FilePath:
   Enabled: false
 
 RSpec/DescribeClass:
-  Enabled: false
+  Exclude:
+  - 'spec/features/**/*'
 
 RSpec/ExampleLength:
-  Enabled: false
+  Exclude:
+  - 'spec/features/**/*'
 
 RSpec/MultipleExpectations:
-  Enabled: false
+  Exclude:
+  - 'spec/features/**/*'
 
 RSpec/NamedSubject:
   Enabled: false
